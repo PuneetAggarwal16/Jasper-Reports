@@ -1,1 +1,0 @@
-removed itext dependency from pom.xml due to itext license constraints
